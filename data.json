@@ -1,0 +1,19 @@
+{
+    "books": [
+      {
+        "book_id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",   
+        "published_date": 1925  
+      },
+      {
+        "book_id": 2,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",  
+        "published_date": 1851  
+      }
+    ]
+  }
+  
